@@ -1,0 +1,15 @@
+/* PUT FLUID GRID CODE HERE */
+
+.col {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 15px;
+}
+
+.col-1-5 {
+  width: 20%;
+}
+
+.col-1-2 {
+  width: 40%;
+}
